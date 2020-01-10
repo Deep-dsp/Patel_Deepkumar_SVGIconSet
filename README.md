@@ -1,1 +1,1 @@
-# Patel_Deepkumar_SVGIconSet
+# SVG Icon Set Project
