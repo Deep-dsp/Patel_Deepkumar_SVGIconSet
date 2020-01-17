@@ -9,3 +9,29 @@
 {
     width: 100%;
 }
+
+.black-bg
+{
+  background-color: black;
+}
+
+/* change the SVG graphic artwprk with  */
+
+/* #lGrain:hover, #rGrain:hover
+{
+  fill: red;
+} */
+
+#beerGraphic:hover #lGrain{
+  fill: red;
+}
+#beerGraphic:hover #rGrain{
+  fill: red;
+}
+
+#beerGraphic:hover #lStar{
+  fill: yellow;
+}
+#beerGraphic:hover #rStar{
+  fill: yellow;
+}
